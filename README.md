@@ -1,10 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviteja2003&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja2003" /> </p>
+<h1 align="center">Hi 👋, I'm Ravi Teja Tadikonda</h1>
+<h3 align="center">Java Full Stack Developer | MERN | Python</h3>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Nice to meet you, I'm TADIKONDA RAVI TEJA
-
-<!-- <h1 align="center">Hello 👋, I'm TADIKONDA RAVI TEJA</h1>
-<h3 align="center">A passionate Full Stack Developer</h3> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raviteja&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja" /> </p>
 
 # Who Am I? 🤠
 🤓 Self-taught and motivated developer  
