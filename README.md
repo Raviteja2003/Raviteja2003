@@ -3,12 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raviteja&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja" /> </p>
 
-# Who Am I? 🌟🤠 
-🔭 Currently learning and working on the JAVA stack  
-🌱 Expanding my skills in React and Java Full Stack 
--💬 Ask me about **JAVA, REACT** 
--📝 I regularly push my projects and sample code to [GitHub](https://github.com/Raviteja2003)  
--📫 How to reach me: vvit20bq1a05m7@gmail.com
+
+- 🌱 I’m currently learning and working on  **Java Full Stack**
+
+- 👨‍💻 Expanding my skills in React
+
+- 💬 Ask me about **Java, React**
+
+- 📫 How to reach me **vvit20BQ1A05M7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
