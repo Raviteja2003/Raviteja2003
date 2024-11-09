@@ -6,9 +6,9 @@
 # Who Am I? 🌟🤠 
 🔭 Currently learning and working on the JAVA stack  
 🌱 Expanding my skills in React and Java Full Stack 
-💬 Ask me about **JAVA, REACT** 
-📝 I regularly push my projects and sample code to [GitHub](https://github.com/Raviteja2003)  
-📫 How to reach me: vvit20bq1a05m7@gmail.com
+-💬 Ask me about **JAVA, REACT** 
+-📝 I regularly push my projects and sample code to [GitHub](https://github.com/Raviteja2003)  
+-📫 How to reach me: vvit20bq1a05m7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
