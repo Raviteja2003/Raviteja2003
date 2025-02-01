@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja Tadikonda</h1>
-<h3 align="center">Java Full Stack Developer | MERN | Python</h3>
+<h3 align="center">Full Stack Developer | MERN </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raviteja&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja" /> </p>
 
+- 🔭 I’m currently working as a **Software Trainee**
 
-- 🌱 I’m currently learning and working on  **Java Full Stack**
+- 🌱 I’m currently learning and working on  **MERN Full Stack**
 
-- 👨‍💻 Expanding my skills in React
+- 👨‍💻 Expanding my skills in React, MS SQL Server, Dot Net
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, React, Python**
 
-- 📫 How to reach me **vvit20BQ1A05M7@gmail.com**
+- 📫 How to reach me **ravitejat0406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
