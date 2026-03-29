@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raviteja&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja" /> </p>
 
-- 🔭 I’m currently working as a **Software Trainee**
+- 🔭 I’m currently working as a **Software Engineer**
 
 - 🌱 I’m currently learning and working on  **MERN Full Stack**
 
-- 👨‍💻 Expanding my skills in React, MS SQL Server, Dot Net
+- 👨‍💻 Expanding my skills in React, AWS, FASTAPI, AZURE, GCP
 
-- 💬 Ask me about **Java, React, Python**
+- 💬 Ask me about ** React, AWS, AZURE, GCP, FASTAPI, Node.js**
 
 - 📫 How to reach me **ravitejat0406@gmail.com**
 
