@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning and working on  **MERN Full Stack**
+- 🌱 I’m currently learning and working on **Serverless Full Stack Applications**
 
-- 👨‍💻 Expanding my skills in React, AWS, FASTAPI, AZURE, GCP
+- 👨‍💻 Expanding my skills in **React, AWS, FASTAPI, AZURE, GCP**
 
-- 💬 Ask me about ** React, AWS, AZURE, GCP, FASTAPI, Node.js**
+- 💬 Ask me about **React, AWS, AZURE, GCP, FASTAPI, Node.js**
 
 - 📫 How to reach me **ravitejat0406@gmail.com**
 
@@ -20,11 +20,16 @@
 <a href="https://leetcode.com/u/Raviteja0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Raviteja0406" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raviteja2003&show_icons=true&locale=en&layout=compact" alt="RavitejaTadikonda" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Raviteja2003&show_icons=true&locale=en&layout=compact&cache_seconds=1800" 
+       alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raviteja2003&show_icons=true&locale=en" alt="RavitejaTadikonda" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Raviteja2003&show_icons=true&locale=en&cache_seconds=1800" 
+       alt="GitHub Stats" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raviteja2003&" alt="RavitejaTadikonda" /></p>
-
-
-
