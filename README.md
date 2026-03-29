@@ -24,4 +24,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Raviteja2003&theme=tokyonight" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raviteja2003&" alt="RavitejaTadikonda" /></p>
+
