@@ -20,15 +20,19 @@
 <a href="https://leetcode.com/u/Raviteja0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Raviteja0406" height="30" width="40" /></a>
 </p>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats-4xzdq0vv1-raviteja2003s-projects.vercel.app/api/top-langs?username=Raviteja2003&layout=compact&locale=en" 
-       alt="Top Languages" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats-cs6vk1bas-raviteja2003s-projects.vercel.app/api?username=Raviteja2003&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
 </p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats-4xzdq0vv1-raviteja2003s-projects.vercel.app/api?username=Raviteja2003&show_icons=true&locale=en" 
-       alt="GitHub Stats" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats-cs6vk1bas-raviteja2003s-projects.vercel.app/api/top-langs?username=Raviteja2003&layout=compact&theme=tokyonight&cache_seconds=1800" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raviteja2003&theme=tokyonight" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raviteja2003&" alt="RavitejaTadikonda" /></p>
