@@ -21,7 +21,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raviteja2003&theme=tokyonight" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Raviteja2003" />
 </p>
 
