@@ -20,13 +20,7 @@
 <a href="https://leetcode.com/u/Raviteja0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Raviteja0406" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-cs6vk1bas-raviteja2003s-projects.vercel.app/api?username=Raviteja2003&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    alt="Ravi Teja"
-  />
-  
-</p>
+
 
 <p align="center">
   <img 
