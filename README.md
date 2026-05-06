@@ -1,4 +1,4 @@
-# Hey, I'm Ravi Teja
+# Hey, I'm Ravi Teja Tadikonda
 
 Software Engineer - Cloud & AI, based in Hyderabad, India.
 
