@@ -26,11 +26,11 @@ Building enterprise-grade cloud and AI systems:
 
 ## Projects
 
-**[UC3](#)** - Multi-cloud governance and cost optimization platform. Full-stack AI-powered engine with React/TypeScript frontend and AWS Lambda/Azure Functions backend. Distributed caching with DynamoDB and Cosmos DB eliminated 80%+ of redundant AI API calls and cut response latency by over 50%.
+UC3 - Multi-cloud governance and cost optimization platform. Full-stack AI-powered engine with React/TypeScript frontend and AWS Lambda/Azure Functions backend. Distributed caching with DynamoDB and Cosmos DB eliminated 80%+ of redundant AI API calls and cut response latency by over 50%.
 
-**[QAssessment](#)** - Cloud-based enterprise assessment platform on Azure. RBAC for 3 user roles via ASP.NET Core and Azure Active Directory, securing access for 200+ users. Deployed on Azure App Service with sub-2-second page load times.
+QAssessment - Cloud-based enterprise assessment platform on Azure. RBAC for 3 user roles via ASP.NET Core and Azure Active Directory, securing access for 200+ users. Deployed on Azure App Service with sub-2-second page load times.
 
-**[Healthcare Solution Platform](#)** - Multilingual mobile-first healthcare app supporting English, Telugu, and Hindi via cloud translation APIs. Automated appointment booking cut average booking time from 5 minutes to under 60 seconds, reaching 10,000+ potential users.
+Healthcare Solution Platform - Multilingual mobile-first healthcare app supporting English, Telugu, and Hindi via cloud translation APIs. Automated appointment booking cut average booking time from 5 minutes to under 60 seconds, reaching 10,000+ potential users.
 
 ## Stack
 
