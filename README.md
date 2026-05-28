@@ -15,7 +15,7 @@ Building scalable cloud-native applications, architecting multi-cloud infrastruc
 
 **Quadrant Technologies** - Software Engineer _(Dec 2024 - Present)_
 
-Building enterprise-grade cloud and AI systems:
+Building enterprise-grade cloud and AI Powered systems:
 
 - **UC3 Platform**: Architecting a multi-cloud governance platform integrating AWS, Azure, and GCP - centralized RBAC, unified cost visibility, and access control across 3 cloud environments for enterprise users
 - **AI Cost Optimization**: Launched AI-driven workflows using Amazon Bedrock (Llama 3) and Azure OpenAI (GPT-4o-mini), delivering real-time infrastructure recommendations that reduced manual review time by 40%
