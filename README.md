@@ -54,7 +54,7 @@ Security    IAM · RBAC · OAuth 2.0 · JWT · SSO · CORS
 - **Microsoft Azure Developer Associate (AZ-204)** - Certified, valid until March 2027
 - **Google Cloud Digital Leader** - Certified, valid until February 2027
 - **AWS Academy Graduate** - Cloud Foundations & Machine Learning Foundations
-- **LeetCode 100-Day Streak** - Solved 100+ problems across DSA, graphs, and dynamic programming · Top 25% of active users
+- **LeetCode 200-Day Streak** - Solved 100+ problems across DSA, graphs, and dynamic programming · Top 25% of active users
 
 ## Links
 
