@@ -36,7 +36,7 @@ Healthcare Solution Platform - Multilingual mobile-first healthcare app supporti
 
 ```
 Frontend    JavaScript · TypeScript · React · Next.js · TailwindCSS · Context API
-Backend     Node.js · Express · Python · FastAPI · ASP.NET Core · REST APIs
+Backend     Node.js · Express · Python · FastAPI  · REST APIs
 Cloud       AWS (Lambda · API Gateway · S3 · DynamoDB · Bedrock · CloudWatch)
             Azure (Functions · Cosmos DB · OpenAI · Active Directory · App Service)
 DevOps      Docker · CI/CD · Git · GitHub Actions · Infrastructure as Code
