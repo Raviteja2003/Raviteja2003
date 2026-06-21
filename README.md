@@ -19,7 +19,7 @@ Building enterprise-grade cloud and AI Powered systems:
 
 - **UC3 Platform**: Architecting a multi-cloud governance platform integrating AWS, Azure, and GCP - centralized RBAC, unified cost visibility, and access control across 3 cloud environments for enterprise users
 - **AI Cost Optimization**: Launched AI-driven workflows using Amazon Bedrock (Llama 3) and Azure OpenAI (GPT-4o-mini), delivering real-time infrastructure recommendations that reduced manual review time by 40%
-- **Serverless Backend**: Engineered 6+ microservices using AWS Lambda and Azure Functions (Python), processing infrastructure provisioning within a 10-minute SLA
+- **Serverless Backend**: Engineered 6+ microservices using AWS Lambda and Azure Functions (Python), processing infrastructure provisioning within a 15-minute SLA
 - **Caching Layer**: Cut cloud API overhead by ~30% with intelligent DynamoDB and Cosmos DB caching (24-hour TTL), improving dashboard load times for 50+ enterprise users
 - **Auth & Security**: Established SSO using Azure Active Directory, supporting 3 enterprise roles with OAuth 2.0 and JWT lifecycle management
 - **Cost Intelligence**: Integrated AWS Cost Explorer and Pricing APIs to surface real-time forecasts and spending breakdowns across 10+ AWS services
