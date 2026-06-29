@@ -1,6 +1,6 @@
 # Hey, I'm Ravi Teja Tadikonda
 
-Software Engineer - Cloud & Full Stack AI Engineer, based in Warangal, India.
+Software Engineer - Cloud & Full Stack AI Engineer, based in Hyderabad, India.
 
 Building scalable cloud-native applications, architecting multi-cloud infrastructure, and integrating AI-powered systems to solve real-world enterprise problems.
 
