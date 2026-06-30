@@ -6,7 +6,7 @@ Building scalable cloud-native applications, architecting multi-cloud infrastruc
 
 ## Now
 
-- SDE at [Quadrant Technologies](https://quadranttechnologies.com) - Warangal, India
+- SDE at [Quadrant Technologies](https://quadranttechnologies.com) - Hyderabad, India
 - Architecting multi-cloud governance platforms across AWS, Azure, and GCP
 - Building AI-driven cost optimization workflows with LLMs and serverless backends
 - Expanding skills in FastAPI, advanced LLM orchestration, and GCP services
